@@ -163,7 +163,7 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/PASTE_YOUR_GITHUB_LINK_HERE.git
+git clone https://github.com/ajay3-prog/MediMatch-Emergency-Platform.git
 cd MediMatch-PS10
 ```
 
